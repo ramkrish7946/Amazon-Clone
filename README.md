@@ -1,1 +1,1 @@
-# Amazon-Clone
+# Amazon-Clone Using HTML & CSS Only.
